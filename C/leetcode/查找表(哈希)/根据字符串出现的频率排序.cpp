@@ -34,7 +34,6 @@ public:
 	
 	}
 };
-
 int main()
 {
     string s="tree";
